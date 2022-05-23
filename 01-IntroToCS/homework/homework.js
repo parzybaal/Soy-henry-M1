@@ -1,7 +1,9 @@
 'use strict'
 
 function BinarioADecimal(num) {
-  // tu codigo aca
+  while (x) {
+    
+  }
 
 }
 
